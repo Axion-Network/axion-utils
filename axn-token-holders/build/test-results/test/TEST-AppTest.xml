@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-06T22:03:39" hostname="Angelas-MBP" time="4.617">
+  <properties/>
+  <testcase name="run" classname="AppTest" time="4.617"/>
+  <system-out><![CDATA[Collecting holders...
+Current Holders: 2
+Eligible Holders: 1
+
+Holders written to: /Users/matt/dev/axion-utils/axn-token-holders/holdersTest.txt
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
