@@ -32,6 +32,8 @@ llog(500e9, 1820, 1.0);
 // amount = 0; stakingDays > 0
 llog(0, 10, 1.0);
 
+let earnings = cs.calc_payout_no_rewards(1000, 1000, 100);
+console.log(earnings);
 //  -- exception ---
 // stakingDays = 0 should raise some kind of exception
 
